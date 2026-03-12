@@ -2,7 +2,7 @@
 
 O **Kwibo** foi desenvolvido para quem deseja **baixar video do Kwai** sem complicação.
 
-Basta copiar ou compartilhar o link do vídeo e o download começa automaticamente.
+Basta copiar ou compartilhar o link do vídeo com o kwibo e o video sera baixado automaticamente.
 
 Com o app, você pode:
 

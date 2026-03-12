@@ -27,3 +27,5 @@ Instale agora o Kwibo e comece a salvar vídeos do Kwai na galeria em segundos:
 ## ⚠️ Nota importante
 
 Qualquer download ou reenvio não autorizado de conteúdos protegidos por direitos autorais é de **responsabilidade exclusiva do usuário**.
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=krmichael.kwiboapp)

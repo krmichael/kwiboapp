@@ -1,4 +1,4 @@
-## 🚀 A maneira mais fácil de baixar vídeo Kwai sem marca d'água e salvar na galeria
+## 🚀 A maneira mais fácil de baixar vídeos do Kwai sem marca d'água e salvar na galeria
 
 O **Kwibo** foi desenvolvido para quem deseja **baixar video do Kwai** sem complicação.
 
